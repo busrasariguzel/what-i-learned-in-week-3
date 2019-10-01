@@ -3,7 +3,8 @@
 
 
 ### `Human Resource Machine`
-We spent some time on human resource machine this week. It started to get very difficult. I still don't know if I like it or not. It teaches us new way of thinking. I like the levels we did this week but I am scared of the next week's levels.(fingers crossed) 
+We spent some time on human resource machine this week. It started to get very difficult. I still don't know if I like it or not. It teaches us new way of thinking. I like the levels we did this week but I am scared of the next week's levels. 
+
 ---
 
 ### `Introduction to Functions`
@@ -31,9 +32,14 @@ I liked functions a lot since it is very similar to math. It seemed hard in the 
 ----
 
 ### `Methods`
-* index
-* indexOf
-* upperCase
+* index()
+* indexOf()
+* toUpperCase() 
+ 
+  ---
 
 ### `Return of the String`
+I learned a lot by doing this exercise. It was really helpful to practice functions. I usually think that I understand everything during the lecture, but when I am doing the in class assignments, I realize that I did not get everything. Especially the last part of the exercise really helped me with functions.
+
+---
 
