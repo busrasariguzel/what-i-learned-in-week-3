@@ -32,9 +32,9 @@ I liked functions a lot since it is very similar to math. It seemed hard in the 
 ----
 
 ### `Methods`
-* index()
-* indexOf()
-* toUpperCase() 
+* index() - finds the element of a given index.
+* indexOf() - finds the index (position) of a certain element in a string
+* toUpperCase() - changes parameter declared to upper case
  
   ---
 
